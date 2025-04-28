@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evijacibulska
 - 👀 I’m interested in computer vision and machine learning 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Dart, C#
 
 <!---
 evijacibulska/evijacibulska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
